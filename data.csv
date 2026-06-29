@@ -1,0 +1,7 @@
+customerID,tenure,MonthlyCharges,TotalCharges,Contract,InternetService,Churn
+001,12,50,600,Month-to-month,DSL,1
+002,24,70,1600,One year,Fiber optic,0
+003,6,30,180,Month-to-month,No,1
+004,48,90,4000,Two year,Fiber optic,0
+005,10,60,600,Month-to-month,DSL,1
+006,36,80,3000,One year,Fiber optic,0
