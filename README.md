@@ -74,7 +74,8 @@ The project uses the **Random Forest Classifier** for prediction.
 Clone the repository:
 
 ```bash
-git clone https://github.com/shiyalkishan/CUSTOMER_CHURN_PREDICTION.git
+git clone https://github.com/shiyalkishan/customer_churn_prediction
+.git
 ```
 
 Move into the project directory:
